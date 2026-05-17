@@ -155,21 +155,10 @@ The warehouse enables analytical reporting such as:
 
 The project includes SQL optimization techniques such as:
 
-- Indexing
 - Surrogate Keys
 - Optimized JOIN Operations
 - Star Schema Modeling
 - Reduced Data Redundancy
-
-Example indexes:
-
-```sql
-CREATE INDEX idx_sales_customer
-ON silver.crm_sales_details(sls_cust_id);
-
-CREATE INDEX idx_sales_product
-ON silver.crm_sales_details(sls_prd_key);
-```
 
 ---
 
