@@ -2,7 +2,7 @@
 
 Welcome to the **Data Warehouse Project** repository!
 
-This project demonstrates the implementation of a modern data warehouse solution using SQL Server, following industry-standard data engineering and analytics practices.
+This project demonstrates the implementation of a modern data warehouse solution using SQL Server, following industry-standard data engineering practices.
 
 The solution includes:
 - Data ingestion from multiple source systems
