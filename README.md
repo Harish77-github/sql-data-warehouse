@@ -1,6 +1,6 @@
-# 🚀 Data Warehouse & Analytics Project
+# 🚀 Data Warehouse Project
 
-Welcome to the **Data Warehouse & Analytics Project** repository!
+Welcome to the **Data Warehouse Project** repository!
 
 This project demonstrates the implementation of a modern data warehouse solution using SQL Server, following industry-standard data engineering and analytics practices.
 
@@ -9,7 +9,6 @@ The solution includes:
 - ETL pipeline development
 - Data cleansing and transformation
 - Star schema data modeling
-- Analytical query optimization
 - Business-ready reporting layer
 
 This project is designed to showcase practical expertise in:
@@ -17,8 +16,6 @@ This project is designed to showcase practical expertise in:
 - Data Warehousing
 - ETL Engineering
 - Data Modeling
-- Analytics Engineering
-- Query Optimization
 
 ---
 
@@ -183,7 +180,6 @@ DataWarehouseProject/
 │   ├── data_architecture.png
 │   ├── data_model.png
 │   ├── etl_flow.png
-│   └── sql_query.png
 │
 └── README.md
 ```
@@ -256,11 +252,10 @@ This project demonstrates practical understanding of:
 - Indexing Strategies
 - Dimensional Modeling
 - Star Schema Design
-- Analytical Querying
 
 ---
 
-# 🚀 Future Improvements
+# 🚀 Future Improvements Planned
 
 - Power BI Dashboard Integration
 - Incremental Data Loading
@@ -268,17 +263,5 @@ This project demonstrates practical understanding of:
 - Data Quality Monitoring
 - Cloud Deployment (Azure / AWS)
 - Automated Scheduling
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a star ⭐
 
 ---
